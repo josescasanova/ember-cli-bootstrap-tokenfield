@@ -8,7 +8,7 @@ module.exports = {
     this._super.included(app);
 
     // Bootstrap
-    app.import('bower_components/bootstrap/dist/css/bootstrap.css');
+    // app.import('bower_components/bootstrap/dist/css/bootstrap.css');
 
     // JQuery UI
     app.import('bower_components/jquery-ui/jquery-ui.js');
